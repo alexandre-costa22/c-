@@ -1,0 +1,16 @@
+E:\PROCERGS\Curso C#\Atividade Final\AtividadeFinal\bin\Debug\AtividadeFinal.exe.config
+E:\PROCERGS\Curso C#\Atividade Final\AtividadeFinal\bin\Debug\AtividadeFinal.exe
+E:\PROCERGS\Curso C#\Atividade Final\AtividadeFinal\bin\Debug\AtividadeFinal.pdb
+E:\PROCERGS\Curso C#\Atividade Final\AtividadeFinal\obj\Debug\AtividadeFinal.csproj.AssemblyReference.cache
+E:\PROCERGS\Curso C#\Atividade Final\AtividadeFinal\obj\Debug\AtividadeFinal.csproj.SuggestedBindingRedirects.cache
+E:\PROCERGS\Curso C#\Atividade Final\AtividadeFinal\obj\Debug\AtividadeFinal.csproj.CoreCompileInputs.cache
+E:\PROCERGS\Curso C#\Atividade Final\AtividadeFinal\obj\Debug\AtividadeFinal.exe
+E:\PROCERGS\Curso C#\Atividade Final\AtividadeFinal\obj\Debug\AtividadeFinal.pdb
+C:\Users\fernando-fink\source\repos\Atividade Final\AtividadeFinal\bin\Debug\AtividadeFinal.exe.config
+C:\Users\fernando-fink\source\repos\Atividade Final\AtividadeFinal\bin\Debug\AtividadeFinal.exe
+C:\Users\fernando-fink\source\repos\Atividade Final\AtividadeFinal\bin\Debug\AtividadeFinal.pdb
+C:\Users\fernando-fink\source\repos\Atividade Final\AtividadeFinal\obj\Debug\AtividadeFinal.csproj.AssemblyReference.cache
+C:\Users\fernando-fink\source\repos\Atividade Final\AtividadeFinal\obj\Debug\AtividadeFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\fernando-fink\source\repos\Atividade Final\AtividadeFinal\obj\Debug\AtividadeFinal.csproj.CoreCompileInputs.cache
+C:\Users\fernando-fink\source\repos\Atividade Final\AtividadeFinal\obj\Debug\AtividadeFinal.exe
+C:\Users\fernando-fink\source\repos\Atividade Final\AtividadeFinal\obj\Debug\AtividadeFinal.pdb

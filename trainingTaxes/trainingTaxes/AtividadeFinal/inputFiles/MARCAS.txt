@@ -1,0 +1,12 @@
+COD_MARCA;NOME_MARCA
+1000;Toyota Camry 
+1001;Ford Mustang 
+1002;Honda Civic 
+1003;BMW 3 Series 
+1004;Chevrolet Silverado 
+1005;Volkswagen Golf 
+1006;Nissan Altima 
+1007;Audi A4 
+1008;Mercedes-Benz C-Class 
+1009;Subaru Impreza 
+1010;Jeep Wrangler 

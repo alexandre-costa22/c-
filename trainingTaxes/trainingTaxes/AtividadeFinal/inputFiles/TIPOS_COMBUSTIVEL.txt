@@ -1,0 +1,6 @@
+COD_TIPO_COMBUST;DESCR_COMBUST
+1;Alcool
+2;Gasolina
+3;Diesel
+4;Hibrido
+5;Eletrico

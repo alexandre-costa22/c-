@@ -1,0 +1,6 @@
+COD_SIT_DETRAN;DESCR_SITUACAO
+1;Registro não efetivado
+2;Em circulação
+3;Baixado
+4;Transferido para outra UF
+5;Registro desativado

@@ -1,0 +1,201 @@
+ID_VEICULO;ANO_FABR;NOME_MARCA;DESCR_COMBUST;NOME_CONTRIB;NOME_MUNICIPIO;QUANT_NF;VLR_FIPE;VLR_IPVA_BRUTO;DESC_BOM_CID;VLR_IPVA_LIQUIDO
+1000000;2021;BMW 3 Series ;Eletrico;Josiane Cola�o Gomes;Pedra Branca;16;86350,77;3454,03;172,70;3281,33
+1000001;2012;Toyota Camry ;Eletrico;Giovana Terezinha Cruz Fontes de Godoy;Estrelada;13;27000,45;1080,02;32,40;1047,62
+1000002;2004;Volkswagen Golf ;Gasolina;Leonardo Ronaldo de Chaves Neto;Monteverde;16;27810,62;00,00;00,00;00,00
+1000003;2008;Toyota Camry ;Diesel;Henrique Camacho de Galindo;Pedra Branca;8;21000,99;00,00;00,00;00,00
+1000004;2011;Honda Civic ;Hibrido;Aurelio Vinicius Azevedo de Alves;Floresta Serena;11;34850,98;1394,04;41,82;1352,22
+1000005;2016;Volkswagen Golf ;Gasolina;Julieta Campos de Paula;Valeflor ;18;67650,61;2706,02;135,30;2570,72
+1000006;2017;Subaru Impreza ;Hibrido;Juan Mateus de Leon;Pedra Branca;25;74426,01;2977,04;148,85;2828,19
+1000007;2018;Volkswagen Golf ;Diesel;Simone Susan Galindo Gusmao de Morais;Floresta Serena;18;74290,09;2971,60;148,58;2823,02
+1000008;2004;Jeep Wrangler ;Eletrico;Anderson Medina Padilha;Serenopolis;12;20980,93;00,00;00,00;00,00
+1000009;2000;Toyota Camry ;Hibrido;Helena D'avila de Martines;Monteverde;12;9000,82;00,00;00,00;00,00
+1000010;2006;Subaru Impreza ;Gasolina;Dante Fagner Duarte de Muniz;Monteverde;10;31768,37;00,00;00,00;00,00
+1000011;2003;Toyota Camry ;Hibrido;Cleuza Ursula Carrara;Valeflor ;14;13500,49;00,00;00,00;00,00
+1000012;2010;Honda Civic ;Alcool;Ricardo Wagner Carrara;Valeflor ;16;32300,72;00,00;00,00;00,00
+1000013;2014;Chevrolet Silverado ;Hibrido;Diego Mario Carmona Perez;Monteverde;16;32418,39;1296,74;64,84;1231,90
+1000014;2019;Jeep Wrangler ;Hibrido;Ingrid Estrada Mascarenhas;Aurora;21;67030,35;2681,21;134,06;2547,15
+1000015;2000;Volkswagen Golf ;Alcool;Evandro Mascarenhas de Pinheiro;Estrelada;12;14530,61;00,00;00,00;00,00
+1000016;2015;Volkswagen Golf ;Hibrido;Hercules Gomes de Bezerra;Pedra Branca;15;64330,33;2573,21;77,20;2496,02
+1000017;2005;Nissan Altima ;Alcool;Demilson Ferreira;Pedra Branca;12;22800,71;00,00;00,00;00,00
+1000018;2002;Audi A4 ;Alcool;Joao Leandro Aragao Filho;Valeflor ;18;14991,70;00,00;00,00;00,00
+1000019;2018;Jeep Wrangler ;Alcool;M�nica Queiros de Santacruz;Serenopolis;21;63960,60;2558,42;127,92;2430,50
+1000020;2022;Audi A4 ;Gasolina;Tomas Gilmar D'avila Jr.;Serenopolis;16;69671,19;2786,85;139,34;2647,51
+1000021;2009;Toyota Camry ;Alcool;Francisco Dominato de Marin;Estrelada;16;22500,23;00,00;00,00;00,00
+1000022;2015;Ford Mustang ;Alcool;Ashley Medina Montenegro;Pedra Branca;12;41500,05;1660,00;49,80;1610,20
+1000023;2016;Honda Civic ;Alcool;Iago Barros de Mello;Estrelada;16;47600,78;1904,03;95,20;1808,83
+1000024;2003;Mercedes-Benz C-Class ;Diesel;Andre Ricardo Aranda de Gimenes;Pedra Branca;9;19320,20;00,00;00,00;00,00
+1000025;2021;Volkswagen Golf ;Gasolina;Natal Camacho de Galvao;Serenopolis;10;84250,79;3370,03;33,70;3336,33
+1000026;2009;Toyota Camry ;Eletrico;Micaela Padilha;Pedra Branca;14;22500,23;00,00;00,00;00,00
+1000027;2002;Honda Civic ;Diesel;Luara Norma Casanova Feliciano;Serenopolis;18;11900,17;00,00;00,00;00,00
+1000028;2022;Chevrolet Silverado ;Hibrido;Everaldo Campos;Floresta Serena;18;45354,88;1814,20;90,71;1723,49
+1000029;2010;Nissan Altima ;Diesel;Mia Dominato de Fraga;Monteverde;18;33100,56;00,00;00,00;00,00
+1000030;2012;Honda Civic ;Alcool;Lilian Mares Klein;Estrelada;18;37400,46;1496,02;74,80;1421,22
+1000031;2005;Nissan Altima ;Hibrido;Catarina Tainara de Mares;Valeflor ;11;22800,71;00,00;00,00;00,00
+1000032;2021;Chevrolet Silverado ;Alcool;Josilda Galhardo Maia;Pedra Branca;14;43737,08;1749,48;52,48;1697,00
+1000033;2012;Mercedes-Benz C-Class ;Diesel;Mario Ricardo Ferminiano de Guerra;Serenopolis;18;38940,91;1557,64;77,88;1479,75
+1000034;2002;Nissan Altima ;Gasolina;Const�ncia Dara Escobar Maldonado de Moura;Floresta Serena;6;16620,71;00,00;00,00;00,00
+1000035;2003;Audi A4 ;Eletrico;Christie Esteves Paim;Floresta Serena;11;17725,43;00,00;00,00;00,00
+1000036;2022;Audi A4 ;Diesel;Denis Wally Bittencourt Martines da Costa;Pedra Branca;15;69671,19;2786,85;83,61;2703,24
+1000037;2007;Toyota Camry ;Gasolina;Arilda Camacho de Aguiar;Aurora;19;19500,79;00,00;00,00;00,00
+1000038;2006;Mercedes-Benz C-Class ;Hibrido;Suzana Brito de Barbosa;Serenopolis;14;25860,73;00,00;00,00;00,00
+1000039;2013;Volkswagen Golf ;Hibrido;Inacio Leopoldo Correia;Monteverde;15;57690,98;2307,64;69,23;2238,41
+1000040;2006;Mercedes-Benz C-Class ;Alcool;Humberto Esteves de Queiros;Valeflor ;18;25860,73;00,00;00,00;00,00
+1000041;2003;Nissan Altima ;Eletrico;Batista Fagner Corona;Pedra Branca;15;18680,67;00,00;00,00;00,00
+1000042;2017;Jeep Wrangler ;Alcool;Giovana Brito de Barros;Aurora;17;60890,74;2435,63;121,78;2313,85
+1000043;2008;Volkswagen Golf ;Eletrico;Aaron Santiago Beltrao Benites;Monteverde;16;41090,44;00,00;00,00;00,00
+1000044;2013;Honda Civic ;Eletrico;Beatriz Pena de Antunes;Pedra Branca;12;39950,57;1598,02;47,94;1550,08
+1000045;2006;Chevrolet Silverado ;Diesel;Catarina Campos;Monteverde;13;19482,81;00,00;00,00;00,00
+1000046;2005;Ford Mustang ;Hibrido;Domingos Guilherme de Grego;Pedra Branca;17;18500,09;00,00;00,00;00,00
+1000047;2003;Jeep Wrangler ;Gasolina;Manoel Nathan Fontes Rezende;Pedra Branca;12;17910,63;00,00;00,00;00,00
+1000048;2016;Subaru Impreza ;Gasolina;Cleber Espinoza;Floresta Serena;21;70548,07;2821,92;141,10;2680,83
+1000049;2010;Toyota Camry ;Gasolina;Diana Vera Matos Medina;Aurora;14;24000,96;00,00;00,00;00,00
+1000050;2021;Chevrolet Silverado ;Hibrido;Bella Nicole Mendes Pena;Floresta Serena;13;43737,08;1749,48;52,48;1697,00
+1000051;2016;BMW 3 Series ;Alcool;Nilo Bezerra Duarte;Monteverde;12;67600,55;2704,02;81,12;2622,90
+1000052;2020;Subaru Impreza ;Hibrido;Santiago Correia;Floresta Serena;11;86060,02;3442,40;103,27;3339,13
+1000053;2003;Toyota Camry ;Diesel;Amalia Marin;Floresta Serena;18;13500,49;00,00;00,00;00,00
+1000054;2001;Mercedes-Benz C-Class ;Eletrico;Estevao Fernandes Jr.;Monteverde;9;14960,28;00,00;00,00;00,00
+1000055;2019;Nissan Altima ;Hibrido;Anakin Damiao Estrada Meireles de Andrade;Floresta Serena;15;51640,71;2065,63;61,97;2003,66
+1000056;2008;Nissan Altima ;Hibrido;Pablo Estevao Duarte Pedrosa;Aurora;16;28980,46;00,00;00,00;00,00
+1000057;2011;Volkswagen Golf ;Diesel;Carlos Karl de Mares Neto;Valeflor ;19;51050,72;2042,03;102,10;1939,93
+1000058;2008;Volkswagen Golf ;Eletrico;Alma Branco de Castro;Pedra Branca;15;41090,44;00,00;00,00;00,00
+1000059;2018;Mercedes-Benz C-Class ;Gasolina;Karl Luan Aranda Batista;Monteverde;17;52020,40;2080,82;104,04;1976,78
+1000060;2013;Chevrolet Silverado ;Alcool;Igor Escobar de Britto;Valeflor ;14;30801,79;1232,07;36,96;1195,11
+1000061;2003;Volkswagen Golf ;Diesel;Emilio Michel de Pena Neto;Floresta Serena;16;24490,84;00,00;00,00;00,00
+1000062;2019;Honda Civic ;Diesel;Agostinho Laerte Faro;Aurora;13;55250,93;2210,04;66,30;2143,74
+1000063;2005;Honda Civic ;Diesel;Eloi Simao Faria de Fontes;Aurora;14;19550,85;00,00;00,00;00,00
+1000064;2016;Subaru Impreza ;Hibrido;Aecio Cruz Sobrinho;Valeflor ;6;70548,07;2821,92;28,22;2793,70
+1000065;2001;Volkswagen Golf ;Eletrico;Eug�nio Frederico Salgado Jr.;Pedra Branca;18;17850,93;00,00;00,00;00,00
+1000066;2012;Audi A4 ;Diesel;Ant�nio Barros de Paiva;Valeflor ;6;42331,16;1693,25;16,93;1676,31
+1000067;2020;Audi A4 ;Gasolina;Barnabe Miguel Quintana Roque;Pedra Branca;15;64203,16;2568,13;77,04;2491,08
+1000068;2020;Nissan Altima ;Eletrico;Manuela Bezerra;Aurora;14;53700,56;2148,02;64,44;2083,58
+1000069;2000;Mercedes-Benz C-Class ;Diesel;Charles Campos de Chaves;Aurora;15;12780,89;00,00;00,00;00,00
+1000070;2014;Toyota Camry ;Hibrido;Emilio Guilherme Sales Teles;Pedra Branca;20;30000,41;1200,02;60,00;1140,02
+1000071;2010;Toyota Camry ;Eletrico;Damiao Marcelo Gon�alves Soares;Valeflor ;22;24000,96;00,00;00,00;00,00
+1000072;2008;Nissan Altima ;Diesel;Eduardo Batista;Valeflor ;13;28980,46;00,00;00,00;00,00
+1000073;2010;Chevrolet Silverado ;Gasolina;Ciro Avila de Corona;Pedra Branca;13;25950,87;00,00;00,00;00,00
+1000074;2019;Honda Civic ;Alcool;Laercio Roberto Cort�s de Paes;Monteverde;23;55250,93;2210,04;110,50;2099,54
+1000075;2018;Chevrolet Silverado ;Eletrico;Regina Thaissa Delatorre de Torres;Floresta Serena;19;38886,38;1555,46;77,77;1477,68
+1000076;2010;Mercedes-Benz C-Class ;Diesel;Anderson Diogo de Cordeiro Neto;Monteverde;15;34580,15;00,00;00,00;00,00
+1000077;2018;Ford Mustang ;Gasolina;Jose Guilherme Delgado Saraiva;Serenopolis;10;48400,97;1936,04;19,36;1916,68
+1000078;2020;Chevrolet Silverado ;Hibrido;Kevin Marcos Cervantes;Monteverde;16;42120,43;1684,82;84,24;1600,58
+1000079;2000;Jeep Wrangler ;Diesel;Sofia Albina Fidalgo Neves;Estrelada;23;8700,25;00,00;00,00;00,00
+1000080;2005;BMW 3 Series ;Hibrido;Suely Thaissa Fontes Mendon�a de Castro;Valeflor ;21;26350,99;00,00;00,00;00,00
+1000081;2009;Jeep Wrangler ;Alcool;Kevin Mariano Marinho;Valeflor ;11;36330,81;00,00;00,00;00,00
+1000082;2017;Mercedes-Benz C-Class ;Hibrido;Sophie Roberta Bezerra Martinez;Valeflor ;15;49840,06;1993,60;59,81;1933,79
+1000083;2002;Audi A4 ;Gasolina;Cassia Bittencourt de Albuquerque;Pedra Branca;11;14991,70;00,00;00,00;00,00
+1000084;2015;BMW 3 Series ;Hibrido;Marlon Ricardo Corona Espinoza da Luz;Aurora;18;63850,09;2554,00;127,70;2426,30
+1000085;2006;Subaru Impreza ;Hibrido;Adilson Branco Filho;Estrelada;18;31768,37;00,00;00,00;00,00
+1000086;2021;Toyota Camry ;Diesel;Elis�ngela Chaves Esteves;Estrelada;18;40500,82;1620,03;81,00;1539,03
+1000087;2011;Ford Mustang ;Eletrico;Catarina Assun�ao de Rivera;Estrelada;24;32300,57;1292,02;64,60;1227,42
+1000088;2007;BMW 3 Series ;Hibrido;Beto Fonseca;Monteverde;14;33850,34;00,00;00,00;00,00
+1000089;2018;Nissan Altima ;Hibrido;Heron Hildebrando Corona Cruz;Monteverde;17;49580,48;1983,22;99,16;1884,06
+1000090;2003;Chevrolet Silverado ;Diesel;Joaquin Faria Ferreira;Serenopolis;20;14631,10;00,00;00,00;00,00
+1000091;2008;Toyota Camry ;Diesel;Nilo Wilson Avila de Castro;Serenopolis;7;21000,99;00,00;00,00;00,00
+1000092;2005;Mercedes-Benz C-Class ;Alcool;Alan Bonilha Jr.;Valeflor ;13;23680,35;00,00;00,00;00,00
+1000093;2005;Ford Mustang ;Alcool;Ezequiel Branco;Valeflor ;15;18500,09;00,00;00,00;00,00
+1000094;2012;Mercedes-Benz C-Class ;Alcool;Regina Hort�ncia Mendes Rosatto;Serenopolis;19;38940,91;1557,64;77,88;1479,75
+1000095;2002;BMW 3 Series ;Eletrico;Luiza Patricia Delgado de Alc�ntara;Estrelada;11;15100,46;00,00;00,00;00,00
+1000096;2000;Mercedes-Benz C-Class ;Alcool;Valentin Rosa Serna;Estrelada;10;12780,89;00,00;00,00;00,00
+1000097;2015;Ford Mustang ;Hibrido;Micaela Barreto Bonilha;Estrelada;12;41500,05;1660,00;49,80;1610,20
+1000098;2012;Subaru Impreza ;Alcool;Daiane Nair Faro de Pacheco;Aurora;21;55036,51;2201,46;110,07;2091,39
+1000099;2004;BMW 3 Series ;Eletrico;Abril Bezerra de Lacerda;Aurora;16;22600,65;00,00;00,00;00,00
+1000100;2014;Ford Mustang ;Gasolina;Martinho Ferraz de Paranhos;Serenopolis;14;39200,15;1568,01;47,04;1520,97
+1000101;2017;Nissan Altima ;Alcool;Robert Matias de Ortega;Serenopolis;19;47520,48;1900,82;95,04;1805,78
+1000102;2022;Toyota Camry ;Hibrido;Olga Rosana Campos Cort�s da Cunha;Pedra Branca;11;42000,41;1680,02;50,40;1629,62
+1000103;2008;Jeep Wrangler ;Hibrido;Gisele Balestero de Ferminiano;Aurora;17;33260,76;00,00;00,00;00,00
+1000104;2004;Subaru Impreza ;Eletrico;Leni Aranda de Albuquerque;Pedra Branca;18;24012,64;00,00;00,00;00,00
+1000105;2022;Chevrolet Silverado ;Eletrico;Walderice Wanda Barreto Dias de Fonseca;Valeflor ;21;45354,88;1814,20;90,71;1723,49
+1000106;2014;Audi A4 ;Eletrico;Eug�nio Mares Sobrinho;Monteverde;23;47799,29;1911,97;95,60;1816,37
+1000107;2014;Subaru Impreza ;Alcool;Monique Fonseca;Pedra Branca;14;62792,57;2511,70;75,35;2436,35
+1000108;2017;Audi A4 ;Gasolina;Alan Jack Flores Pereira;Estrelada;17;56001,29;2240,05;112,00;2128,05
+1000109;2019;Chevrolet Silverado ;Gasolina;Ziraldo Nicolas Ferminiano;Serenopolis;15;40503,07;1620,12;48,60;1571,52
+1000110;2009;Subaru Impreza ;Alcool;Carlos Karl de Mares Neto;Monteverde;17;43402,19;00,00;00,00;00,00
+1000111;2012;Audi A4 ;Gasolina;Ornela Valentina Saraiva;Valeflor ;9;42331,16;1693,25;16,93;1676,31
+1000112;2009;BMW 3 Series ;Eletrico;Martinho Quico Lozano;Monteverde;22;41350,17;00,00;00,00;00,00
+1000113;2018;Honda Civic ;Hibrido;Catarina Feliciano de Flores;Serenopolis;18;52700,95;2108,04;105,40;2002,64
+1000114;2011;Nissan Altima ;Diesel;Christopher Assun�ao;Pedra Branca;15;35160,65;1406,43;42,19;1364,23
+1000115;2022;Ford Mustang ;Gasolina;Bento Gilmar Bezerra;Estrelada;10;57600,25;2304,01;23,04;2280,97
+1000116;2014;Subaru Impreza ;Alcool;Melanie Yasmin Bittencourt Ferminiano da Luz;Pedra Branca;15;62792,57;2511,70;75,35;2436,35
+1000117;2016;Jeep Wrangler ;Diesel;Eduarda L�cia de Beltrao;Serenopolis;14;57820,73;2312,83;69,38;2243,44
+1000118;2020;BMW 3 Series ;Eletrico;�ngelo Leandro Aranda Freire;Aurora;10;82600,63;3304,03;33,04;3270,98
+1000119;2008;BMW 3 Series ;Gasolina;Alberto Oliver Corona Neto;Floresta Serena;12;37600,91;00,00;00,00;00,00
+1000120;2011;Chevrolet Silverado ;Eletrico;David Carrara;Floresta Serena;17;27567,19;1102,69;55,13;1047,55
+1000121;2013;Mercedes-Benz C-Class ;Diesel;Alberto Andre Batista Sobrinho;Valeflor ;13;41120,41;1644,82;49,34;1595,47
+1000122;2015;Honda Civic ;Gasolina;Alonso Ferreira dos Pinhais;Estrelada;2;45050,91;1802,04;00,00;1802,04
+1000123;2010;Audi A4 ;Eletrico;Andreia Marinho Pedrosa;Estrelada;20;36863,79;00,00;00,00;00,00
+1000124;2005;Ford Mustang ;Gasolina;Artur Jair de Cordeiro Filho;Aurora;11;18500,09;00,00;00,00;00,00
+1000125;2014;Volkswagen Golf ;Gasolina;Luzinete Marielle Branco de Lira;Aurora;16;61010,68;2440,43;122,02;2318,41
+1000126;2013;Honda Civic ;Gasolina;Francisco Uribe de Aranda;Aurora;25;39950,57;1598,02;79,90;1518,12
+1000127;2011;Subaru Impreza ;Diesel;Bruno Beltrao;Aurora;15;51158,67;2046,35;61,39;1984,96
+1000128;2011;Volkswagen Golf ;Alcool;Christian Brito de Fonseca;Aurora;17;51050,72;2042,03;102,10;1939,93
+1000129;2005;Toyota Camry ;Gasolina;Augusto Gomes de Freitas;Estrelada;9;16500,55;00,00;00,00;00,00
+1000130;2019;Audi A4 ;Gasolina;Malena D'avila;Valeflor ;10;61469,90;2458,80;24,59;2434,21
+1000131;2016;Nissan Altima ;Gasolina;Vitoria Claudia Cort�s Galvao d'Avila;Pedra Branca;10;45460,44;1818,42;18,18;1800,23
+1000132;2014;Subaru Impreza ;Alcool;Franco Jeferson de Caldeira;Aurora;9;62792,57;2511,70;25,12;2486,59
+1000133;2000;Ford Mustang ;Eletrico;Cristiano Osorio Ferraz Padrao de Martins;Monteverde;11;7000,45;00,00;00,00;00,00
+1000134;2019;BMW 3 Series ;Hibrido;Itamar Leopoldo Teles Val�ncia;Valeflor ;15;78850,61;3154,02;94,62;3059,40
+1000135;2019;Jeep Wrangler ;Diesel;Hugo Barreto de Flores;Monteverde;16;67030,35;2681,21;134,06;2547,15
+1000136;2004;Mercedes-Benz C-Class ;Diesel;Cau� Reinaldo Neves Frias;Aurora;10;21500,41;00,00;00,00;00,00
+1000137;2018;Audi A4 ;Gasolina;Ian Abreu Bonilha;Serenopolis;17;58735,03;2349,40;117,47;2231,93
+1000138;2017;Volkswagen Golf ;Hibrido;Bruna Raissa Beltrao;Floresta Serena;14;70970,50;2838,82;85,16;2753,66
+1000139;2021;Mercedes-Benz C-Class ;Hibrido;Guilherme Domingues de Torres;Aurora;19;58560,80;2342,43;117,12;2225,31
+1000140;2010;Nissan Altima ;Diesel;Daniela Fontes Barroso;Aurora;18;33100,56;00,00;00,00;00,00
+1000141;2015;Subaru Impreza ;Hibrido;Tomas Quico Matias de Padilha;Serenopolis;12;66670,79;2666,83;80,00;2586,83
+1000142;2001;Ford Mustang ;Eletrico;Celso Valter Barros Queiros Mendes;Aurora;13;9300,87;00,00;00,00;00,00
+1000143;2002;Toyota Camry ;Gasolina;Paulinia Bittencourt Rico;Valeflor ;12;12000,88;00,00;00,00;00,00
+1000144;2000;Honda Civic ;Hibrido;Jose Juliano Dominato Sobrinho;Aurora;12;6800,87;00,00;00,00;00,00
+1000145;2008;BMW 3 Series ;Diesel;Aurelio Ronaldo Mendon�a;Floresta Serena;18;37600,91;00,00;00,00;00,00
+1000146;2015;Subaru Impreza ;Hibrido;Vitoria Cervantes de Abreu;Floresta Serena;11;66670,79;2666,83;80,00;2586,83
+1000147;2021;Subaru Impreza ;Eletrico;Alonso Ian de Gusmao;Pedra Branca;22;89938,84;3597,55;179,88;3417,68
+1000148;2022;Ford Mustang ;Eletrico;Ana Martines Rivera;Floresta Serena;19;57600,25;2304,01;115,20;2188,81
+1000149;2017;Honda Civic ;Diesel;Adrielle Diana Ortiz Bahia;Monteverde;18;50150,28;2006,01;100,30;1905,71
+1000150;2013;Audi A4 ;Diesel;Dara Elaine Beltrao Gutierrez;Valeflor ;13;45065,26;1802,61;54,08;1748,53
+1000151;2000;BMW 3 Series ;Eletrico;Leni Chaves;Estrelada;16;7600,16;00,00;00,00;00,00
+1000152;2014;Ford Mustang ;Eletrico;Milene Matias Pacheco;Valeflor ;16;39200,15;1568,01;78,40;1489,61
+1000153;2011;Nissan Altima ;Eletrico;Mayra Patricia Perez;Valeflor ;9;35160,65;1406,43;14,06;1392,36
+1000154;2018;Chevrolet Silverado ;Diesel;Elias Vicente Assun�ao Carrara;Pedra Branca;13;38886,38;1555,46;46,66;1508,79
+1000155;2000;Jeep Wrangler ;Gasolina;Ivone Laura Cordeiro de Almeida;Estrelada;17;8700,25;00,00;00,00;00,00
+1000156;2015;Toyota Camry ;Gasolina;Agustina Zilda Mares de Padrao;Valeflor ;14;31500,07;1260,00;37,80;1222,20
+1000157;2004;Honda Civic ;Eletrico;Fatima Zilda Azevedo Galvao de Bueno;Aurora;20;17000,90;00,00;00,00;00,00
+1000158;2015;Ford Mustang ;Gasolina;Giovana Jenny D'avila Estrada;Aurora;10;41500,05;1660,00;16,60;1643,40
+1000159;2018;Toyota Camry ;Diesel;Leo Carrara Fontes;Floresta Serena;16;36000,42;1440,02;72,00;1368,02
+1000160;2020;Chevrolet Silverado ;Alcool;Bruno Camilo de Carmona Sobrinho;Floresta Serena;20;42120,43;1684,82;84,24;1600,58
+1000161;2022;Volkswagen Golf ;Diesel;Guiomar Meire de Barreto;Estrelada;11;87570,96;3502,84;105,09;3397,75
+1000162;2007;Ford Mustang ;Hibrido;Madalena Abreu Herrera;Pedra Branca;21;23100,83;00,00;00,00;00,00
+1000163;2010;Jeep Wrangler ;Diesel;Cesar Mauricio Dominato de Pinheiro;Pedra Branca;19;39400,20;00,00;00,00;00,00
+1000164;2003;Audi A4 ;Gasolina;Carlos Leon Duque;Aurora;9;17725,43;00,00;00,00;00,00
+1000165;2005;BMW 3 Series ;Gasolina;Amelia Celia Guerra;Estrelada;16;26350,99;00,00;00,00;00,00
+1000166;2002;Jeep Wrangler ;Diesel;Murilo Renato de Godoi Neto;Pedra Branca;12;14840,69;00,00;00,00;00,00
+1000167;2004;Jeep Wrangler ;Diesel;Ney Nivaldo Pacheco de Fonseca;Monteverde;12;20980,93;00,00;00,00;00,00
+1000168;2020;Nissan Altima ;Gasolina;Carlos Campos de Ferminiano;Aurora;22;53700,56;2148,02;107,40;2040,62
+1000169;2021;Jeep Wrangler ;Diesel;Karin Qu�nia Batista Burgos de Oliveira;Floresta Serena;15;73170,67;2926,83;87,80;2839,02
+1000170;2002;Audi A4 ;Gasolina;Fernando Agostinho Santana de Ramos;Serenopolis;19;14991,70;00,00;00,00;00,00
+1000171;2007;Nissan Altima ;Diesel;Jussara Olivia de Cruz;Estrelada;16;26920,98;00,00;00,00;00,00
+1000172;2018;Volkswagen Golf ;Gasolina;Janaina Jandira Jimenes Prado Marinho;Valeflor ;16;74290,09;2971,60;148,58;2823,02
+1000173;2013;Nissan Altima ;Gasolina;Jorge Meireles de Rico;Estrelada;21;39280,51;1571,22;78,56;1492,66
+1000174;2021;Ford Mustang ;Alcool;Noeli Bonilha Guedes;Aurora;17;55300,22;2212,01;110,60;2101,41
+1000175;2005;BMW 3 Series ;Eletrico;Luara Mayra Cola�o de Campos;Floresta Serena;19;26350,99;00,00;00,00;00,00
+1000176;2007;Ford Mustang ;Eletrico;Artur Jacinto Jimenes Igreja;Valeflor ;7;23100,83;00,00;00,00;00,00
+1000177;2017;Toyota Camry ;Alcool;Joao Garcia;Serenopolis;10;34500,30;1380,01;13,80;1366,21
+1000178;2006;Mercedes-Benz C-Class ;Diesel;Felicia Beltrao Lopes;Floresta Serena;8;25860,73;00,00;00,00;00,00
+1000179;2013;Jeep Wrangler ;Eletrico;Helena Meire Galhardo;Serenopolis;18;48610,24;1944,41;97,22;1847,19
+1000180;2005;Jeep Wrangler ;Alcool;Cleuza Fernandes;Pedra Branca;23;24050,83;00,00;00,00;00,00
+1000181;2010;Honda Civic ;Alcool;Everton Joao Madeira Valdez de Salvador;Serenopolis;14;32300,72;00,00;00,00;00,00
+1000182;2012;BMW 3 Series ;Hibrido;Jorge Jesus Campos Jr.;Floresta Serena;24;52600,97;2104,04;105,20;1998,84
+1000183;2021;Audi A4 ;Diesel;Pablo Duarte;Estrelada;19;66937,04;2677,48;133,87;2543,61
+1000184;2007;Mercedes-Benz C-Class ;Alcool;Arthur Breno Mendes de Nogueira;Valeflor ;11;28040,70;00,00;00,00;00,00
+1000185;2018;Audi A4 ;Gasolina;Leonardo Ronaldo de Chaves Neto;Valeflor ;12;58735,03;2349,40;70,48;2278,92
+1000186;2011;Chevrolet Silverado ;Diesel;Jacomo Montenegro Filho;Pedra Branca;15;27567,19;1102,69;33,08;1069,61
+1000187;2022;Chevrolet Silverado ;Eletrico;Jose Molina de Rangel;Pedra Branca;15;45354,88;1814,20;54,43;1759,77
+1000188;2002;BMW 3 Series ;Gasolina;Alberto Martinho Dias Neto;Aurora;11;15100,46;00,00;00,00;00,00
+1000189;2008;Subaru Impreza ;Alcool;Rai Padrao de Serra;Monteverde;14;39524,67;00,00;00,00;00,00
+1000190;2011;Jeep Wrangler ;Diesel;Camilo Plinio Delatorre;Monteverde;12;42470,47;1698,82;50,96;1647,85
+1000191;2018;Mercedes-Benz C-Class ;Hibrido;Ariana Tainara Mares de Maia;Monteverde;18;52020,40;2080,82;104,04;1976,78
+1000192;2017;Volkswagen Golf ;Gasolina;Miranda Cristiane Bezerra de Ortiz;Pedra Branca;10;70970,50;2838,82;28,39;2810,43
+1000193;2010;Ford Mustang ;Diesel;Reinaldo Yuri Chaves Esteves;Pedra Branca;13;30000,67;00,00;00,00;00,00
+1000194;2017;Honda Civic ;Eletrico;Luiza Sandra Marques Estrada;Floresta Serena;18;50150,28;2006,01;100,30;1905,71
+1000195;2019;Honda Civic ;Alcool;Bartolomeu Roberto Ferminiano Mercado;Valeflor ;5;55250,93;2210,04;00,00;2210,04
+1000196;2013;Subaru Impreza ;Eletrico;Caio Avila Filho;Pedra Branca;16;58914,66;2356,59;117,83;2238,76
+1000197;2019;BMW 3 Series ;Hibrido;Jose Molina de Rangel;Monteverde;22;78850,61;3154,02;157,70;2996,32
+1000198;2018;Chevrolet Silverado ;Alcool;Luana Claudia Branco Carrara;Monteverde;14;38886,38;1555,46;46,66;1508,79
+1000199;2003;Ford Mustang ;Diesel;Daniel Hernani Benites Camacho;Valeflor ;12;13900,82;00,00;00,00;00,00

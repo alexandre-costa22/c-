@@ -1,0 +1,3 @@
+COD_PROCEDENCIA;DESCR_PROCEDENCIA
+1;Nacional
+2;Estrangeira
